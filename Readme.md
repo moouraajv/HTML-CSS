@@ -13,4 +13,5 @@
 ## Acesse a documentação:
 
 * [Tags de HTML](./html.md)
-* [Seletores de CSS](./css.md)
+* [Tags de CSS](./css.md)
+* [Seletores de CSS](./Seletores.md)
