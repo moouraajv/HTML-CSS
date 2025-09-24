@@ -8,7 +8,7 @@
 
 **Curso:**  *ADS*
 
-> Este repositório contém uma documentação completa sobre tags de HTML e seletores de CSS.
+> Este repositório contém uma documentação completa sobre tags de HTML, tags de CSS e seletores de CSS.
 
 ## Acesse a documentação:
 
